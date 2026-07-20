@@ -99,4 +99,5 @@ VLSM subnetting & CIDR design · VLAN segmentation & 802.1Q trunking · Router-o
  -  Network Time Protocol 
 ## Screenshots
 
-Screenshots will be added after uploading the project to GitHub.
+![Topology](gns3-homelab/screenshots/TopologyGNS3.png)
+
