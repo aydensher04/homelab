@@ -106,12 +106,12 @@ VLSM subnetting & CIDR design · VLAN segmentation & 802.1Q trunking · Router-o
 ![Pings](screenshots/InterOfficePing.png)
 
 ### OSPF Errors (R1 + R2)
-![R1OSPF](gns3-homelab/screenshots/OSPFDownR1.png)
-![R2OSPF](gns3-homelab/screenshots/OSPFDownR2.png)
+![R1OSPF](screenshots/OSPFDownR1.png)
+![R2OSPF](screenshots/OSPFDownR2.png)
 
 ### OSPF Fix Verification
-![R1FIX](gns3-homelab/screenshots/R1OSPFFix.png)
-![R2FIX](gns3-homelab/screenshots/R2OSPFFix.png)
+![R1FIX](screenshots/R1OSPFFix.png)
+![R2FIX](screenshots/R2OSPFFix.png)
 
 ### SSH Success (IT VLAN)
 ![ITSSH](screenshots/SSHSuccess.png)
