@@ -99,5 +99,5 @@ VLSM subnetting & CIDR design · VLAN segmentation & 802.1Q trunking · Router-o
  -  Network Time Protocol 
 ## Screenshots
 
-![Topology](/screenshots/TopologyGNS3.png)
+![Topology](screenshots/TopologyGNS3.png)
 
