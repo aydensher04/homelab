@@ -7,7 +7,7 @@ Self-directed infrastructure build projects: systems administration, networking,
 |Project|Stack|Status|
 |---|---|---|
 |[AD DS & Windows Server 2022](AD-DS&Windows-Server-2022/README.md)|Hyper-V, Windows Server 2022, Active Directory, Group Policy, DNS/DHCP|Complete|
-|[GNS3 Networking Lab](gns3-homelab/README.md)|GNS3, VLANs, trunking, OSPF, ACLs|Planned|
+|[GNS3 Networking Lab](gns3-homelab/README.md)|GNS3, VLANs, trunking, OSPF, ACLs|Complete|
 |Azure Homelab|Azure, Entra ID, networking/governance|Planned|
 
 ## Structure
