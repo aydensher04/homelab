@@ -99,5 +99,25 @@ VLSM subnetting & CIDR design · VLAN segmentation & 802.1Q trunking · Router-o
  -  Network Time Protocol 
 ## Screenshots
 
+### Topology
 ![Topology](screenshots/TopologyGNS3.png)
 
+### Ping verification
+![Pings](screenshots/InterOfficePing.png)
+
+### OSPF Errors (R1 + R2)
+![R1](gns3-homelab/screenshots/OSPFDownR1.png)
+![R2](gns3-homelab/screenshots/OSPFDownR2.png)
+
+### OSPF Fix Verification
+![R1](gns3-homelab/screenshots/R1OSPFFix.png)
+![R2](gns3-homelab/screenshots/R2OSPFFix.png)
+
+### SSH Success (IT VLAN)
+![ITSSH](screenshots/SSHSuccess.png)
+
+### SSH Denied (HR VLAN)
+![HRSSH](screenshots/HRSSHDenied.png)
+
+### SSH Log
+![LOGSSH](screenshots/SSHLogR2.png)
