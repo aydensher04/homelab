@@ -100,7 +100,7 @@ VLSM subnetting & CIDR design · VLAN segmentation & 802.1Q trunking · Router-o
 ## Screenshots
 
 ### Topology
-![Topology](screenshots/TopologyGNS3.png)
+![Topology](screenshots/Topology2GNS3.png)
 
 ### Ping verification
 ![Pings](screenshots/InterOfficePing.png)
