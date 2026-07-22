@@ -81,7 +81,7 @@ Every issue was approached the same way: confirm Layer 1/2 state (interface up, 
 
 **OSPF adjacency stuck below FULL** : network type mismatch.  `show ip ospf interface` showed R1 configured as `POINT_TO_POINT`, while R2 was still using the default `BROADCAST` network type. Matching the setting on R2 brought the adjacency to FULL immediately; `show ip route` on both routers then showed all four VLAN subnets present.
 
-**DHCP requests stuck on Discovery : Initially suspected a DHCP scope issue. The actual problem was that the router subinterface was administratively down, so DHCP requests never reached the server. `no shutdown` resolved it.
+**DHCP requests stuck on Discovery** : Initially suspected a DHCP scope issue. The actual problem was that the router subinterface was administratively down, so DHCP requests never reached the server. `no shutdown` resolved it.
 
 **RSA key generation failed on R2.** `crypto key generate rsa` requires both hostname and `ip domain-name` set first. neither was configured yet. Set `ip domain-name lab.local`, then generated a 2048-bit key pair.
 
